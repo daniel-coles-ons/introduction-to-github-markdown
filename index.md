@@ -1,3 +1,8 @@
+- [x] List syntax is required
+- [ ] Job needs to be done
+- [x] Job is done!
+
+
 # H1 header
 ## H2 header
 ### H3 header
